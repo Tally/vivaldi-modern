@@ -1,10 +1,10 @@
  #browser.normal {
 	padding: 1px !important;
-  box-shadow: inset 0px 0px 1px 1px rgba(218, 218, 218, .11);
+	box-shadow: inset 0px 0px 1px 1px rgba(218, 218, 218, .11);
 }
 #browser.win .window-buttongroup button.window-close {
-  margin-right: 0 !important;
+	margin-right: 0 !important;
 }
 .tabs-top.color-behind-tabs-on #tabs-container {
- background-image: none !important;
+	background-image: none !important;
 }
